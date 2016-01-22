@@ -16,4 +16,4 @@ app.use('/api', require('./routes/api'));
 
 app.listen(3000);
 
-console.log('api still running on port 3000');
+console.log('api now running on port 3000');
